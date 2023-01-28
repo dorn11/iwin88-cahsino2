@@ -44,9 +44,11 @@ marquee img{
 .board .cell{
     /* width: 100%; */
     /* height: 100%; */
-    background-color: rgb(251, 250, 253);
+    background-color: rgb(11, 240, 22);
     justify-content: center;
-    border-radius: 10px;
+    color: white;
+    border-top-left-radius: 20px;
+   border-bottom-right-radius: 20px;
     align-items: center;
     text-align: center;
     justify-content: center;
