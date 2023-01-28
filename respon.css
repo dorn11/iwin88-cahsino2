@@ -46,4 +46,11 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 }
+:host {
+    display: inline-block;
+    overflow: hidden;
+    text-align: initial;
+    white-space: nowrap;
+    height: 250px;
+}
 }
