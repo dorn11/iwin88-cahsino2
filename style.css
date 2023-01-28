@@ -24,6 +24,11 @@ h2{
     padding: 20px;
     color: rgb(14, 13, 13);
 }
+marquee img{
+    width: 400px;
+    
+    height: 400px;
+}
 
 .board{
     width: 320px;
